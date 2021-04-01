@@ -1,0 +1,32 @@
+/* Styles for your homework one assignment */
+
+
+
+body {
+    background-color: #1C2120;
+    font-family: 'Space Mono', monospace;
+    width: 100vw;
+    
+}
+
+h2 {
+    color: whitesmoke;
+    padding: 10px;
+    margin-left: 45%;
+    
+}
+
+.titleimg {
+    margin-left: 45%;
+    margin-right: 45%;
+    width: 50vw;
+    padding: 10px;
+    
+}
+
+.reddot {
+    width: 50vw;
+    padding: 10px;
+    margin-left: 45%;
+    margin-right: 45%;
+}
